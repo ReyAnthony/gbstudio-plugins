@@ -10,10 +10,6 @@ const fields = [
 		key: "Label",
 		label: "Name of the label to define",
 		type: "text",
-		updateFn: () => {
-			//check if the loop we want to break for exists in this context ?
-			//(is this even possible ?)
-		},
 		defaultValue: "Label",
 		placeholder: "Label",
 	},

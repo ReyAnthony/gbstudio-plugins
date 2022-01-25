@@ -10,9 +10,6 @@ const fields = [
 		key: "Label",
 		label: "Label to jump to",
 		type: "text",
-		updateFn: () => {
-		  //check already define, not null etc..
-		},
 		defaultValue: "Label",
 		placeholder: "Label",
 	},
